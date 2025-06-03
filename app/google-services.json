@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "770468384000",
-    "project_id": "literaku-38b4f",
-    "storage_bucket": "literaku-38b4f.firebasestorage.app"
+    "project_number": "835384342865",
+    "project_id": "literaku-836f3",
+    "storage_bucket": "literaku-836f3.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:770468384000:android:9d13a028ed268343f737e5",
+        "mobilesdk_app_id": "1:835384342865:android:629b305a22805668a2fb70",
         "android_client_info": {
-          "package_name": "com.app.com.app.literaku"
+          "package_name": "com.app.literaku"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC8UvQAKKejP7ZCp8hzjQCMXnIwdYFUv10"
+          "current_key": "AIzaSyCo_5fOA34ikNYKA_HNrV93ctwEUoSpFnA"
         }
       ],
       "services": {
