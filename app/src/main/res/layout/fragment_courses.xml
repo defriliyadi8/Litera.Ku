@@ -33,9 +33,10 @@
             android:id="@+id/imageButton5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="444dp"
             android:src="@drawable/inbok"
-            tools:layout_editor_absoluteX="180dp"
-            tools:layout_editor_absoluteY="436dp" />
+            app:layout_constraintBottom_toBottomOf="@+id/imageButton2"
+            tools:layout_editor_absoluteX="172dp" />
 
         <ImageButton
             android:id="@+id/imageButton6"
